@@ -114,6 +114,8 @@
 			<KEYWORD2>attribute</KEYWORD2>
 			<KEYWORD2>inline</KEYWORD2>
 			<KEYWORD2>data</KEYWORD2>
+			<KEYWORD2>get</KEYWORD2>
+			<KEYWORD2>set</KEYWORD2>
 			
 			<KEYWORD3>Any</KEYWORD3>
 			<KEYWORD3>Boolean</KEYWORD3>
@@ -133,7 +135,9 @@
 
 			<KEYWORD1>do</KEYWORD1>
 			<KEYWORD1>enum</KEYWORD1>
-			
+			<KEYWORD1>constructor</KEYWORD1>
+			<KEYWORD3>init</KEYWORD3>
+			<KEYWORD1>typealias</KEYWORD1>
 
 			<KEYWORD2>package</KEYWORD2>
 			<KEYWORD2>import</KEYWORD2>
@@ -144,8 +148,9 @@
 			<KEYWORD1>internal</KEYWORD1>
 			<KEYWORD1>protected</KEYWORD1>
 			<KEYWORD1>private</KEYWORD1>
+			<KEYWORD1>inner</KEYWORD1>
+			<KEYWORD1>super</KEYWORD1>
 
-			<KEYWORD1>switch</KEYWORD1>
 			<KEYWORD1>throw</KEYWORD1>
 			<KEYWORD1>throws</KEYWORD1>
 			<KEYWORD1>transient</KEYWORD1>
